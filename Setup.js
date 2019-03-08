@@ -5,7 +5,7 @@ var can = document.getElementById("can"),
    //create a Camera for displaying
    let cam = new Camera();
    //create a new tilemap
-   let tileMap = new TileMap(55,35);
+   let tileMap = new TileMap(200,200);
    //create the gamecontroller
    let ctrl = new GameController();
    console.log("gogo");
