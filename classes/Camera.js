@@ -5,7 +5,7 @@ class Camera{
 	constructor(){
 		this.x = 87;
 		this.y = 50;
-    this.tileSize = 40;
+    this.tileSize = 10;
 		this.camSpeed=10;
 		this.zoomSpeed=1;
     this.dx = 0;
